@@ -1,16 +1,20 @@
 {
   "pulled_at": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "pulled_at": "Post 1" },
+    { "id": 2, "pulled_at": "Post 2" },
+    { "id": 3, "pulled_at": "Post 3" }
   ],
   "screen_name": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "J_tsar": "some comment", "postId": 1 },
+    { "id": 2, "J_tsar": "some comment", "postId": 1 }
   ],
   "social_media": {
     "name": "twitter"
   },
+  "response_content": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "depa"
   }
